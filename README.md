@@ -1,2 +1,9 @@
-# TDD
- Exemplo de teste únitario (TDD) 
+# Teste Únitario (TDD)
+________________________________________________________________________________________________________________________________________
+
+## FATEC RL
+## Prof.: Claudio Nunes
+________________________________________________________________________________________________________________________________________
+
+#### Modelo de teste únitario utilizando cálculos aritméticos.
+#### Conteúdo teórico disponibilizado em sala de aula.
